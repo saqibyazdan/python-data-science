@@ -5,7 +5,6 @@ WIDTH = 800
 HEIGHT = 600
 score = 0
 music.play("avenger_piano")
-
 player = Actor("ironman", (WIDTH//2, HEIGHT//2))
 coin = Actor('coin', (randint(50, WIDTH-50), 
                       randint(50, HEIGHT-50)))
