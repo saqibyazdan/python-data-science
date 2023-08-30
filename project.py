@@ -1,6 +1,5 @@
 import PySimpleGUI as sg
 import numpy as np
-
 # Define the layout of the GUI
 layout = [
     [sg.Text('Matrix Calculator', font=('Helvetica', 20))],
